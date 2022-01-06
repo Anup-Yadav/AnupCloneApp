@@ -1,0 +1,434 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  width:100%;
+  left: 0px;
+  top: 0px;
+  text-align: center;
+  padding: 10px 0px 0px 0px;
+  background-color:#FFCB2A;
+}
+
+.header img{
+  height:10%;
+  width:10%;
+}
+
+.about{
+  background-color: #6308BD;
+  color: white;
+}
+
+
+.aboutt{
+  padding:5% 15%;
+}
+
+.a-1{
+  padding: 5% 15%;
+}
+.a-2{
+  padding: 5% 15% 0%;
+}
+
+.a-11 img{
+  height: 30%;
+  width:30%;
+  display: inline;
+  float: left;
+}
+
+.a-12{
+  padding-left: 15%;
+}
+
+.a-121{
+  margin-left:20%;
+  padding-left: 20%;
+}
+.a-122{
+  margin:10px 0px;
+}
+.a-123{
+  margin:10px 0px;
+}
+.a-124{
+  margin:10px 0px;
+}
+.a-125{
+  margin:10px 0px;
+}
+
+.a-121 a {
+  padding: 0% 10%;
+  text-decoration: none;
+  color: #F2C94C;
+}
+.a-122 a {
+  padding: 0% 5%;
+  text-decoration: none;
+  color: white;
+}.a-123 a {
+  padding: 0% 5%;
+  text-decoration: none;
+  color: white;
+}.a-124 a {
+  padding: 0% 5%;
+  text-decoration: none;
+  color: white;
+}
+.a-125 a {
+  padding: 0% 5%;
+  text-decoration: none;
+  color: white;
+}
+
+.a-2 a{
+  padding: 10px;
+}
+.sep{
+  margin-right: 10%;
+}
+.a-2 a{
+  text-decoration: none;
+  color: white;
+}
+.a-2 i{
+  padding:10px;
+}
+
+
+
+.about p{
+  margin-top: 0px;
+  font-weight:100;
+}
+
+
+
+.overview {
+  padding: 5% 15%;
+  background-color: #F3F7FC;
+}
+
+.each{
+  text-align: center;
+}
+
+h6{
+  font-size: 1.4rem;
+  font-weight: bolder;
+  margin:0px 0px;
+  margin-top: 5px;
+}
+
+
+.press{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+  background-color: #F3F7FC;
+  margin-bottom: 0;
+  padding-bottom: 17px;
+}
+.eachp img{
+  width:90%;
+  height:70%;
+}
+
+.inspire {
+  padding: 5% 15%;
+  background-color: #F3F7FC;
+}
+
+.container{
+  display:flex;
+  text-align: center;
+}
+
+.eachi img{
+  width:100%;
+  height:70%;
+}
+.eachi h3{
+  font-size: 90%;
+  font-weight: bolder;
+  padding-top:20px;
+  margin: 0;
+}
+.eachi p{
+  font-size: 90%;
+  padding: 0;
+  margin: 0;
+}
+.eachi{
+  border: 2px solid black;
+  margin-right:  10px;
+  border-radius: 5px;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+
+.box{
+   width: 100%;
+   padding:0 15%;
+   background: #F3F7FC;
+   border-radius: 7px;
+   box-shadow: 1px 2px 4px rgba(0,0,0,.3);
+}
+
+.box .heading{
+   background: #F3F7FC;
+   border-radius: 7px 7px 0px 0px;
+   padding: 10px;
+   color: black;
+   text-align: left;
+   font-weight: bolder;
+   font-size: 1.5rem;
+   font-family: "Rubik";
+}
+
+.faqs{
+   padding: 0px 20px 20px;
+}
+
+::-webkit-details-marker{
+   float: right;
+   margin-top: 3px;
+}
+
+details{
+   background:white;
+   padding: 10px 20px;
+   border-radius: 7px;
+   margin-top: 20px;
+   font-family: "Rubik";
+   font-size: 14px;
+   letter-spacing: 1px;
+   cursor: pointer;
+}
+
+details summary{
+   outline: none;
+}
+
+details .text{
+  padding-top: 10px;
+}
+
+.skills{
+  padding: 5% 15% 0%;
+  background-color: #F3F7FC;
+}
+
+.skills h1{
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+.skills button{
+  padding: 0px 5px;
+  border: 1px solid #A9A9A9;
+  margin: 15px;
+}
+
+.rewards{
+  padding: 5% 15% 0%;
+  background-color: #F3F7FC;
+}
+
+.eachr{
+  background-color: white;
+  border-radius: 10px;
+  border:1px solid white;
+  margin: 5px;
+  width:48%;
+}
+
+
+.eachr img{
+  width:40%;
+  height:60%;
+  margin: 2%;
+  padding: 2%;
+}
+
+.eachr .text{
+  font-size: 0.7rem;
+  float: right;
+  padding-right: 25 %;
+  padding-top: 10%;
+  margin-right: 30px;
+}
+.eachr h2{
+  font-size: 0.9rem;
+  font-weight: bolder;
+}
+
+.navbarr{
+  background-color: #6308BD;
+  height: 15%;
+  padding: 5% 15% 5%;
+}
+
+.navbarr img{
+  height: 15%;
+  width: 15%;
+}
+
+.navbarr a{
+  text-decoration: none;
+}
+
+
+.main{
+  background-color: #F45689;
+  padding: 5% 15% 5%;
+  color:white;
+}
+
+.circle-1{
+  position: absolute;
+  width: 218px;
+  height: 218px;
+  left: -147px;
+  border-radius: 109px;
+  background: linear-gradient(329.05deg, #FE8126 1.63%, #FBC10B 90.72%), #DF23FE;
+  box-shadow: -40px 82px 120px rgba(70, 27, 140, 0.19);
+}
+
+
+
+
+.timeline {
+  margin-top: 35px;
+  padding: 0% 15% 0%;
+  display: grid;
+  grid-template-columns: 40% auto;
+  justify-content: center;
+}
+
+.xp ul {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+}
+.xpp li {
+  margin-top: 30px;
+  position: relative;
+  padding: 25px;
+}
+li p {
+  padding: 0 20px;
+  transition: 1.5s;
+}
+
+.date {
+  position: absolute;
+
+  top: 30px;
+  left: -50px;
+  opacity: 0;
+  transition: 1.5s;
+  font-size: 12px;
+}
+.timeline-line {
+  background: rgb(228, 228, 228);
+  width: 4px;
+  border-radius: 12px;
+  position: relative;
+  justify-self: end;
+}
+
+.timeline-point {
+  border: none;
+  position: absolute;
+
+  border-radius: 50%;
+  background: rgb(228, 228, 228);
+  width: 8px;
+  height: 8px;
+
+  top: 30px;
+  left: -6px;
+  transition: 1.5s ease;
+}
+.timeline-innerline {
+  position: absolute;
+  background: blue;
+  width: 4px;
+  height: 0%;
+
+  top: 0%;
+  left: 0%;
+
+  transition: 1s linear;
+}
+
+@media screen and (min-width: 728px) {
+  .timeline {
+    display: block;
+  }
+  .xp ul {
+    flex-direction: row;
+  }
+  .xpp li {
+    margin-top: 0px;
+    position: relative;
+    width: 100%;
+    padding: 0px;
+  }
+  li p {
+    transform: translateY(-10px);
+    opacity: 0;
+    /* padding: 0 20px; */
+    transition: 1.5s;
+  }
+
+  .date {
+    opacity: 0;
+    transition: 1.5s;
+    font-size: 12px;
+
+    position: absolute;
+    top: -60px;
+    left: 38%;
+  }
+
+  .timeline-point {
+    width: 15px;
+    height: 15px;
+
+    top: -40px;
+    left: 40%;
+    transition: 1.5s ease;
+  }
+
+  .timeline-line {
+    width: 100%;
+    height: 4px;
+  }
+
+  .timeline-innerline {
+    position: absolute;
+    background: blue;
+    width: 0%;
+    height: 4px;
+
+    top: 0%;
+    left: 0%;
+
+    transition: 1s linear;
+    border-radius: 999px;
+  }
+}
